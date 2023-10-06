@@ -39,10 +39,10 @@ O código não fecha as conexões com o banco de dados (Connection), declaraçõ
 
 ## Etapa2  Critérios de Caixa Branca - (Grafo de Fluxo; Complexidade Ciclomática; Base de Caminhos)
 1 - Numeração do código:
-<img src="codigo.jpg">
+<img src="codigo.jpeg">
 
 2 - Grafico de Fluxo:
-<img src="grafo.jpg">
+<img src="grafo.jpeg">
 
 3 - cálculo da complexidade ciclomática: 
 
