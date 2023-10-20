@@ -1,0 +1,8 @@
+##ETAPA 3 – Documentação
+
+1 - Documentação do codigo fonte, 
+descrevendo em partes numeradas de 1 a 4,
+o que cada quadrante e linha do codigo fazem 
+descrições de quadrante são responsaveis por explicar o que
+aquela parte do codigo faz já as linhas numeradas são correspondentes
+ao seu devido quadrante 
